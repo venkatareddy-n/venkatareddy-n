@@ -7,9 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Sr DevOps Engineer
 ------------------
-
-🚀 DevOps Engineer with 9 years of overall experience, including 4+ years specializing in DevOps and AWS Cloud Engineering, I work with DevOps Tools Ansible, Terraform, Docker, Kuberneter, Shell-Scripting
-    AWS-Cloud (EC2, IAM, S3, Route-53, EKS, Dynamo-DB)
+🚀 DevOps Engineer with 9 years of overall experience, including 5 years specializing in DevOps and AWS Cloud Engineering, I work with DevOps Tools Jenkins, Ansible, Terraform, Docker, Kuberneter, Shell-Scripting, AWS-Cloud (EC2, IAM, S3, Route-53, EKS, Dynamo-DB)
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [venkatswan1991@gmail.com](mailto:venkatswan199@gmail.com)
 * 🤝  I'm open to collaborating on Cloud Infrastructure Projects: Building scalable and secure cloud environments using AWS, Terraform. CI/CD Implementation: Designing and optimizing CI/CD pipelines, GitHub Actions, and Jenkins to improve software delivery speed and reliability. 
